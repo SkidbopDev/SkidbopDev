@@ -3,11 +3,11 @@
 [![Skidbop]](https://github.com/SkidbopDev)
 
 
-## I'm a Software Developer!!
+## I'm a Fivem Developer!!
 
 - 👨‍💻 I'm currently working on: IDEK
-- 🥅 2021/2022 Goals: I wan't to learn more about Lua.
-- 👴 I'm currently 16 years old
+- 🥅 2023/2024 Goals: I wan't to get more bitches
+- 👴 I'm currently 17 years old
 - ⚡ Fun fact: I ❤️ to learn new things, and meet new people!
 
 
@@ -28,5 +28,5 @@
 
 
 
-[discord]: https://discord.gg/VmfxkGgdYT
+[discord]: https://discord.gg/lunadev
 
